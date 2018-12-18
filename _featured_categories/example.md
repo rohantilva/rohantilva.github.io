@@ -17,9 +17,9 @@ order: 3
 ---
 
 ## [Wiki-Engine](https://github.com/rohantilva/Wiki-Engine)
-Primitive search engine web-app queries server holding server holding text from ~2000 Wikipedia articles and, given a query, locates the most relevant answer candidates to the query within the Wikipedia text. When displayed on the UI, the search results are ranked according to scores assigned by pre-trained deep neural net. Makes heavy use of IR metrics like TF-IDF. 
+Primitive search engine web-app queries server holding server holding text from ~2000 Wikipedia articles and, given a query, locates the most relevant answer candidates to the query within the Wikipedia text. When displayed on the UI, the search results are ranked according to scores assigned by pre-trained deep neural net. Makes heavy use of IR metrics like TF-IDF. <br />
 Uses: Python, Docker, Apache Lucene, Concrete, NLTK, scikit-learn
 
 ## Wiki-Engine
-Primitive search engine web-app queries server holding server holding text from ~2000 Wikipedia articles and, given a query, locates the most relevant answer candidates to the query within the Wikipedia text. When displayed on the UI, the search results are ranked according to scores assigned by pre-trained deep neural net. Makes heavy use of IR metrics like TF-IDF. 
+Primitive search engine web-app queries server holding server holding text from ~2000 Wikipedia articles and, given a query, locates the most relevant answer candidates to the query within the Wikipedia text. When displayed on the UI, the search results are ranked according to scores assigned by pre-trained deep neural net. Makes heavy use of IR metrics like TF-IDF. <br />
 Uses: Python, Docker, Apache Lucene, Concrete, NLTK, scikit-learn
