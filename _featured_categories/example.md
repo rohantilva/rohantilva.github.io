@@ -15,19 +15,18 @@ order: 3
 
 
 ## [Wiki-Engine](https://github.com/rohantilva/Wiki-Engine)
-hehehe Primitive search engine web-app queries server holding server holding text from ~2000 Wikipedia articles and, given a query, locates the most relevant answer candidates to the query within the Wikipedia text. When displayed on the UI, the search results are ranked according to scores assigned by pre-trained deep neural net. Makes heavy use of IR metrics like TF-IDF. <br /> <br />
+Primitive search engine web-app queries server holding server holding text from ~2000 Wikipedia articles and, given a query, locates the most relevant answer candidates to the query within the Wikipedia text. When displayed on the UI, the search results are ranked according to scores assigned by pre-trained deep neural net. Makes heavy use of IR metrics like TF-IDF. Click [here](https://drive.google.com/file/d/1kEby-BD7cCL3zcylXTqMfNPDuPgIC9LI/view?usp=sharing) to check it out in action! <br /> 
 
-Click [here](https://drive.google.com/file/d/1kEby-BD7cCL3zcylXTqMfNPDuPgIC9LI/view?usp=sharing) to check it out in action! <br /> <br />
 Uses: Python, Docker, Apache Lucene, Concrete, NLTK, scikit-learn
 
 ## [Optimal Playlist](https://github.com/rohantilva/Optimal-Playlist)
 Heroku web app uses Spotify API to scrape most popular songs from party of users to create mutually liked playlist.
-<br /> <br />
+<br /> 
 
 Uses: Python, Flask, Spotify API, Heroku, HTML/CSS, JS, Bootstrap
 
 ## [Image Detector](https://github.com/rohantilva/Deep-Nets-For-Image-Classification)
-Uses Convolutional NN's and Feed-Forward NN's to maximize classification accuracy on images sourced from Google Quick Draw. Focuses on CNN's. <br /> <br />
+Uses Convolutional NN's and Feed-Forward NN's to maximize classification accuracy on images sourced from Google Quick Draw. Focuses on CNN's. <br /> 
 
 Uses: Python, PyTorch, NumPy
 
@@ -38,7 +37,7 @@ Uses: Python, Docker, scikit-learn
 
 ## [Battleship | Mobile Battleship | Checkers](https://github.com/rohantilva/Battleship-MobileBS-Checkers)
 Command line implementation of three popular board games. 
-<br /> <br />
+<br />
 
 Uses: C++
 
