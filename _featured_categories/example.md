@@ -10,8 +10,9 @@ slug: example
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Most of these projects should be viewable on my [Github](https://github.com/rohantilva/), but
+  some of the repositories for these projects might be private. If you'd like to see any private 
+  project, just shoot me a message!
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
