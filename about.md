@@ -6,31 +6,15 @@ layout: about
 # The title of the page.
 title: About
 
-# Write a short (~150 characters) description of each blog post.
-# This description is used to preview the page on search engines, social media, etc.
-description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-# You can show the description on the page by deleting this line:
-hide_description: true
-
-# TODO
-image: /assets/img/blog/hydejack-8.png
-
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
 order: 4
 ---
 
-## Hydejack
 
-The "Best Jekyll Theme by a Mile".
+I'm a junior computer science and applied mathematics double major at Johns Hopkins University, current SDE intern at Amazon, former SWE intern at Capital One and Oracle, former Varsity athlete on the JHU baseball team, member of the Phi Gamma Delta fraternity, and teaching assistant for Johns Hopkins' Machine Learning (CS475) course. I'm passionate about the intersection of technology, entertainment, healthcare, and the financial markets, and I'll be taking this semester off from school (Fall 2018) to intern at Amazon HQ in Seattle. I'm a big fan of The Office, Chef's Table, Ugly Delicious, Game of Thrones, the New York Giants, clothes, coffee, and music (check out my two favorite artists on Spotify: Electric Guest, MØ). 
 {:.lead}
 
-![Screenshot](assets/img/blog/hydejack-8.png){:.lead}
-Hydejack's cover page on a variety of screens.
-{:.figure}
 
 **Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
 
