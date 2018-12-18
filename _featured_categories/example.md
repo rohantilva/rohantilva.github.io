@@ -6,12 +6,6 @@ layout: about
 # The title of the page.
 title: Projects
 
-# (Optional) Write a short (~150 characters) description of this featured tag.
-description: >
-  Most of these projects should be viewable on my [Github](https://github.com/rohantilva/), but
-  some of the repositories for these projects might be private. If you'd like to see any private 
-  project, just shoot me a message!
-
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
 order: 3
