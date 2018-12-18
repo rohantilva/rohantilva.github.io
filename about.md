@@ -8,7 +8,7 @@ title: About
 
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
-order: 4
+order: 1
 ---
 
 ## Intro 
