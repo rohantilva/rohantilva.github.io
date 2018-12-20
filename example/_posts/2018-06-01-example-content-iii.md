@@ -1,93 +1,47 @@
 ---
-layout: post
-title: Example Content III
-description: >
-  A page showing Hydejack-specific markdown content.
-image: /assets/img/blog/example-content-iii.jpg
+# This page uses Hydejack's `about` layout, which shows the primary author's picture and about text at the top.
+# You can change it to the regular `page` layout if you want.
+layout: about
+
+# The title of the page.
+title: About
+
+# Setting `menu` will generate an entry in the sidebar.
+menu: true
+order: 1
 ---
 
-Hydejack offers a few additional features to markup your markdown.
-Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
-so that your content remains compatible with other Jekyll themes.
-
-## Large Tables
-
-| Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|-----------------|:-----------|:---------------:|---------------:|-----------------|:-----------|:---------------:|---------------:|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    | First body part |Second cell | Third cell      | fourth cell    | First body part |Second cell | Third cell      | fourth cell    | First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            | Second line     |foo         | **strong**      | baz            | Second line     |foo         | **strong**      | baz            | Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            | Third line      |quux        | baz             | bar            | Third line      |quux        | baz             | bar            | Third line      |quux        | baz             | bar            |
-| Second body     |            |                 |                | Second body     |            |                 |                | Second body     |            |                 |                | Second body     |            |                 |                |
-| 2 line          |            |                 |                | 2 line          |            |                 |                | 2 line          |            |                 |                | 2 line          |            |                 |                |
-| Footer row      |            |                 |                | Footer row      |            |                 |                | Footer row      |            |                 |                | Footer row      |            |                 |                |
-{:.scroll-table}
-
-
-## Code blocks
-
-~~~js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those
-// arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-~~~
-
-
-## Math
-Lorem ipsum $$ f(x) = x^2 $$.
-
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-
-## Message boxes
-**NOTE**: You can add a message box.
-{:.message}
-
-## Large text
-You can add large text.
+## Intro 
+I'm a junior computer science and applied mathematics double major at Johns Hopkins University, current SDE intern at Amazon, former SWE intern at Capital One and Oracle, former Varsity athlete on the JHU baseball team, member of the Phi Gamma Delta fraternity, and teaching assistant for Johns Hopkins' Machine Learning (CS475) course. I'm passionate about the intersection of technology, entertainment, healthcare, and the financial markets, and I'll be taking this semester off from school (Fall 2018) to intern at Amazon HQ in Seattle. I'm a big fan of The Office, Chef's Table, Ugly Delicious, Game of Thrones, the New York Giants, clothes, coffee, and music (check out my two favorite artists on Spotify: [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv)). 
 {:.lead}
 
-## Large images
-![Full-width image](https://placehold.it/800x100){:.lead data-width="800" data-height="100"}
+[blog]: https://hydejack.com/blog/
+[portfolio]: https://hydejack.com/projects/
+[resume]: https://hydejack.com/resume/
+[download]: https://hydejack.com/download/
+[welcome]: https://hydejack.com/
+[forms]: https://hydejack.com/forms-by-example/
 
-## Captions to images
-![Full-width image](https://placehold.it/800x100){:.lead data-width="800" data-height="100"}
-A caption to an image.
-{:.figure}
+[features]: #features
+[news]: #build-an-audience
+[syntax]: #syntax-highlighting
+[latex]: example/_posts/2018-06-01-example-content-iii.md#math
 
-## Large quotes
-> You can make a quote "pop out".
-{:.lead}
+[lic]: https://hydejack.com/LICENSE/
+[pro]: https://hydejack.com/licenses/PRO/
+[docs]: https://hydejack.com/docs/
 
-## Faded text
-I'm faded, faded, faded.
-{:.faded}
+[kit]: https://github.com/qwtel/hy-starter-kit/archive/master.zip
+[src]: https://github.com/qwtel/hydejack
+[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
+[buy]: https://app.simplegoods.co/i/NATYVLYT
 
-
-[mm]: https://guides.github.com/features/mastering-markdown/
-[ksyn]: https://kramdown.gettalong.org/syntax.html
-[ksyntab]:https://kramdown.gettalong.org/syntax.html#tables
-[ksynmath]: https://kramdown.gettalong.org/syntax.html#math-blocks
+[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2F
+[hy-push-state]: https://qwtel.com/hy-push-state/
+[hy-drawer]: https://qwtel.com/hy-drawer/
+[hy-img]: https://qwtel.com/hy-img/
+[rouge]: http://rouge.jneen.net
 [katex]: https://khan.github.io/KaTeX/
-[rtable]: https://dbushell.com/2016/03/04/css-only-responsive-tables/
+[tinyletter]: https://tinyletter.com/
+
+*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
