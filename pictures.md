@@ -66,14 +66,6 @@ Outer Banks, North Carolina
 Belltown Seattle, Washington
 {:.figure}
 
-![Resume PDF](assets/img/pics/gulfoss.jpg){: data-width="1867" data-height="1389"}
-Gullfoss, Iceland
-{:.figure}
-
-![Resume PDF](assets/img/pics/oldrag2.jpg){: data-width="1867" data-height="1389"}
-Old Rag Mountain, Virginia
-{:.figure}
-
 [blog]: https://hydejack.com/blog/
 [portfolio]: https://hydejack.com/projects/
 [resume]: https://hydejack.com/resume/
