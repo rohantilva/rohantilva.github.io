@@ -12,33 +12,43 @@ order: 4
 ---
 
 ![Resume PDF](assets/img/pics/seattle1.jpg){: data-width="1867" data-height="1389"}
+Belltown Seattle, Washington
 {:.figure}
 
 ![Resume PDF](assets/img/pics/iceland1.jpeg){: data-width="1867" data-height="1389"}
+Kerið, Iceland
 {:.figure}
 
 ![Resume PDF](assets/img/pics/iceland2.jpeg){: data-width="1867" data-height="1389"}
+Fjaðrárgljúfur, Iceland
 {:.figure}
 
 ![Resume PDF](assets/img/pics/trip1.jpeg){: data-width="1867" data-height="1389"}
+Old Rag Mountain, Virginia
 {:.figure}
 
 ![Resume PDF](assets/img/pics/iceland3.gif){: data-width="1867" data-height="1389"}
+Skógafoss, Iceland
 {:.figure}
 
 ![Resume PDF](assets/img/pics/seattle2.jpeg){: data-width="1867" data-height="1389"}
+Green Lake Trail - Mount Rainier, Washington
 {:.figure}
 
 ![Resume PDF](assets/img/pics/seattle3.jpg){: data-width="1867" data-height="1389"}
+Mount Rainier, Washington
 {:.figure}
 
 ![Resume PDF](assets/img/pics/seattle4.jpg){: data-width="1867" data-height="1389"}
+Green Lake Trail - Mount Rainier, Washington
 {:.figure}
 
 ![Resume PDF](assets/img/pics/seattle5.jpg){: data-width="1867" data-height="1389"}
+Mount Rainier, Washington
 {:.figure}
 
 ![Resume PDF](assets/img/pics/seattle6.jpeg){: data-width="1867" data-height="1389"}
+Capitol Hill Seattle, Washington
 {:.figure}
 
 [blog]: https://hydejack.com/blog/
