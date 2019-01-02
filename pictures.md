@@ -58,20 +58,20 @@ Capitol Hill Seattle, Washington
 Alaska
 {:.figure}
 
-![Resume PDF](assets/img/pics/gulfoss.jpg){: data-width="1867" data-height="1389"}
-Gullfoss, Iceland
-{:.figure}
-
-![Resume PDF](assets/img/pics/oldrag2.jpg){: data-width="1867" data-height="1389"}
-Old Rag Mountain, Virginia
-{:.figure}
-
 ![Resume PDF](assets/img/pics/outerbanks.jpg){: data-width="1867" data-height="1389"}
 Outer Banks, North Carolina
 {:.figure}
 
 ![Resume PDF](assets/img/pics/spaceneedle.JPG){: data-width="1867" data-height="1389"}
 Belltown Seattle, Washington
+{:.figure}
+
+![Resume PDF](assets/img/pics/gulfoss.jpg){: data-width="1867" data-height="1389"}
+Gullfoss, Iceland
+{:.figure}
+
+![Resume PDF](assets/img/pics/oldrag2.jpg){: data-width="1867" data-height="1389"}
+Old Rag Mountain, Virginia
 {:.figure}
 
 [blog]: https://hydejack.com/blog/
